@@ -8,3 +8,4 @@ what is the date today
 03022044
 today is saturday
 my name is sampath
+hai sai what are you doing
