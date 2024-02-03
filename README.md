@@ -6,3 +6,4 @@ how do you do ?
 hai akshay what are you doing ?
 what is the date today
 03022044
+today is saturday
