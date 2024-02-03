@@ -10,3 +10,4 @@ today is saturday
 my name is sampath
 hai sai what are you doing
 hai sunny what are you doing
+hai all 
